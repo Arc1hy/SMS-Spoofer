@@ -1,5 +1,5 @@
 # SMS-Spoofer
-SMS spoofer using free api, (2$ free credit). you can send with a webhook.
+SMS spoofer using free api, (2$ free credit). you can send message with discord bot.
 
 **How to use**
 
