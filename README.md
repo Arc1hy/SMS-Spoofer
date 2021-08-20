@@ -3,6 +3,7 @@ SMS spoofer using free api, (2$ free credit). you can send with a webhook.
 
 **How to use**
 
+- Create account Cliksend too !
 - Create a discord bot
 - Create a discord Server
 - Invite your bot in server
